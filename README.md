@@ -68,3 +68,7 @@ Also it might help to people who don't have any experience in animation :)
 * [Standardize Bows - Asset Store](https://assetstore.unity.com/packages/tools/animation/standardize-bows-139068)
 
 * [My Youtube Account](https://www.youtube.com/channel/UCg0QBQFEAHstDN3rXLveg5w)
+
+---
+
+**Any amount of supoort is appreciated: paypal.me/ahmetahaydemir**
