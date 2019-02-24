@@ -5,7 +5,7 @@ It is something that I currently use in my hobby project. I hope by sharing it, 
 
 Also it might help to people who don't have any experience in animation :)
 
-![Standardize Bows Banner](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/assetSocial1200.png "Standardize Bows Banner")
+![Standardize Bows Banner](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/assetSocial1200.png "Standardize Bows Banner")
 
 ## Who should use this ?
 
@@ -30,11 +30,15 @@ Also it might help to people who don't have any experience in animation :)
 ► Realistic looking simulation of a bow being drawn and fired off. 
 
 
-![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/StagesOfTheBow.png "Bow Simulation - Check out the showcase video") 
+![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/StagesOfTheBow.png "Bow Simulation - Check out the showcase video") 
 
 ► Three different types of script sets for your bows and projectiles. First one is the standalone version that doesn't require a bow user. Other two versions are developed in order to integrate the simulation of the bow with Humaoid character's animations. One with the animator states and the other ones use animator boolean parameters. 
 
 ► Modular state like coding in order to allow users to easily add/remove functionality. 
+
+![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/FirstStructure.png "Update Structure of Standalone")
+
+![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/SecondStructure.png "Update Structure of Player Integrated Version")
 
 ► Projectile and particle object pooling. 
 
@@ -43,7 +47,7 @@ Also it might help to people who don't have any experience in animation :)
 ► Clear documentation and the scripts are heavily commented and organized. 
 
 
-![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/CodeShowcase.png "This code is cleaner than my room.") 
+![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/CodeShowcase.png "This code is cleaner than my room.") 
 
 # Showcase Videos
 
