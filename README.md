@@ -7,7 +7,7 @@ Also it might help to people who don't have any experience in animation :)
 
 ## Who should use this ?
 
-⇛ If you are not experienced in a modelling software and you don't have the time and energy to learn them like I don't, **this asset is for you! **
+⇛ If you are not experienced in a modelling software and you don't have the time and energy to learn them like I don't, **this asset is for you!**
 
 ⇛ If you are creating a game that has lots and lots of bow models, **this asset is for you!** 
 
@@ -19,7 +19,7 @@ Also it might help to people who don't have any experience in animation :)
 
 ---
 
-★★★★★★★★★★★★★★★ Where this script really shines is the customizability aspect of it.★★★★★★★★★★★★★★★
+★★★★★★★★★★★★★★★★ Where this script really shines is the customizability aspect of it.★★★★★★★★★★★★★★★★
 
 ---
 
