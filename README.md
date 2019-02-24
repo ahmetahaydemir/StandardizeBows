@@ -20,22 +20,22 @@ Also it might help to people who don't have any experience in animation :)
 
 # Showcase Videos
 
-*[Standalone Bow Version](https://youtu.be/UN7AWzPihGg)
+* [Standalone Bow Version](https://youtu.be/UN7AWzPihGg)
 
-*[Different Bow Models - Standalone Version](https://youtu.be/M18QIPQ9wFE)
+* [Different Bow Models - Standalone Version](https://youtu.be/M18QIPQ9wFE)
 
-*[Player Integrated Version](https://youtu.be/zEGKLUMUr0k)
+* [Player Integrated Version](https://youtu.be/zEGKLUMUr0k)
 
 # Tutorial Videos
 
-*[Tutorial Part - 1 - StandardizedRig Process](https://youtu.be/e0Ch9-XPdtU)
+* [Tutorial Part - 1 - StandardizedRig Process](https://youtu.be/e0Ch9-XPdtU)
 
-*[Tutorial Part - 2A - Standalone Bow Version](https://youtu.be/s6zvTjLwbR4)
+* [Tutorial Part - 2A - Standalone Bow Version](https://youtu.be/s6zvTjLwbR4)
 
-*[Tutorial Part - 2B - Player Integrated Version](https://youtu.be/ic9Tlx7flIY)
+* [Tutorial Part - 2B - Player Integrated Version](https://youtu.be/ic9Tlx7flIY)
 
 # Documentation & Asset Store
 
-*[Standardize Bows - Documentation](https://docs.google.com/document/d/1WQrHb0WXIHjRbb64JqA_QW6O-Yow9acdayFbsdy4ARk/edit?usp=sharing)
+* [Standardize Bows - Documentation](https://docs.google.com/document/d/1WQrHb0WXIHjRbb64JqA_QW6O-Yow9acdayFbsdy4ARk/edit?usp=sharing)
 
-*[Standardize Bows - Asset Store](https://assetstore.unity.com/packages/tools/animation/standardize-bows-139068)
+* [Standardize Bows - Asset Store](https://assetstore.unity.com/packages/tools/animation/standardize-bows-139068)
