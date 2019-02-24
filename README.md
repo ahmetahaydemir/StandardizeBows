@@ -35,7 +35,7 @@ Also it might help to people who don't have any experience in animation :)
 
 &nbsp;
 
-► Three different types of script sets for your bows and projectiles. First one is the standalone version that doesn't require a bow user. Other two versions are developed in order to integrate the simulation of the bow with Humaoid character's animations. One with the animator states and the other ones use animator boolean parameters. 
+► Three different types of script sets for your bows and projectiles. First one is the standalone version that doesn't require a bow user. Other two versions are developed in order to integrate the simulation of the bow with Humaoid character's animations. One with the animator states and the other one uses animator boolean parameters. 
 
 &nbsp;
 
