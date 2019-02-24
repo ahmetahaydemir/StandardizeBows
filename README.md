@@ -1,9 +1,23 @@
 # StandardizeBows
-Standardize Bows is a Unity ( C# ) project that is created in order to setup bow models that will simulate the physics of a bow without having any animation or animator component being attached to the bow. 
+Standardize Bows is a Unity ( C# ) project that is created in order to setup bow models that will simulate the physics of a bow without having any animation or animator component being attached to the bow. It is something that I currently use in my hobby project. I hope by sharing it more people can benefit from it.
 
 Advantage of using C# for this case is the customizability aspect. 
 
 Also it might help to people who don't have any experience in animation :)
+
+## Pros
+
+⇛ If you are not experienced in a modelling software and you don't have the time and energy to learn them like I don't, this asset is for you ! 
+
+⇛ If you are creating a game that has lots and lots of bow models, this asset is for you ! 
+
+⇛ If you want your player stats to affect and interact with the movement of the bows like in a RPG game, this asset is for you ! 
+
+## Cons
+
+⇝ However, because of the way this C# script achieves this process, this script is not viable for a game that has more than 100 of these bows concurrently active in a scene ( Like a RTS game would have ). 
+
+★★★★★ Where this script really shines is the customizability aspect of it.★★★★★
 
 # ❂ FEATURES ❂ 
 
@@ -19,16 +33,17 @@ Also it might help to people who don't have any experience in animation :)
 
 ► Clear documentation and the scripts are heavily commented and organized. 
 
+---
+
 # Showcase Videos
 
 * [Standalone Bow Version](https://youtu.be/UN7AWzPihGg)
 
-* <a href="http://www.youtube.com/watch?feature=player_embedded&v=zEGKLUMUr0k
-" target="_blank"><img src="http://img.youtube.com/vi/zEGKLUMUr0k/0.jpg" width="1280" height="780"  /></a>
-
 * [Different Bow Models - Standalone Version](https://youtu.be/M18QIPQ9wFE)
 
 * [Player Integrated Version](https://youtu.be/zEGKLUMUr0k)
+
+---
 
 # Tutorial Videos
 
@@ -38,8 +53,12 @@ Also it might help to people who don't have any experience in animation :)
 
 * [Tutorial Part - 2B - Player Integrated Version](https://youtu.be/ic9Tlx7flIY)
 
+---
+
 # Documentation & Asset Store & Youtube
 
 * [Standardize Bows - Documentation](https://docs.google.com/document/d/1WQrHb0WXIHjRbb64JqA_QW6O-Yow9acdayFbsdy4ARk/edit?usp=sharing)
 
 * [Standardize Bows - Asset Store](https://assetstore.unity.com/packages/tools/animation/standardize-bows-139068)
+
+* [My Youtube Account](https://www.youtube.com/channel/UCg0QBQFEAHstDN3rXLveg5w)
