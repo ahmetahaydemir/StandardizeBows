@@ -3,17 +3,21 @@ Standardize Bows is a Unity ( C# ) project that is created in order to setup bow
 
 Also it might help to people who don't have any experience in animation :)
 
+---
+
 ⇛ If you are not experienced in a modelling software and you don't have the time and energy to learn them like I don't, **this asset is for you! **
 
 ⇛ If you are creating a game that has lots and lots of bow models, **this asset is for you!** 
 
 ⇛ If you want your player stats to affect and interact with the movement of the bows like in a RPG game, **this asset is for you!** 
 
+---
+
 ⇝ **However,** because of the way this C# script achieves this process(not the most performant way), this script is not viable for a game that has more than 100 of these bows concurrently active in a scene ( Like a RTS game would have ). 
 
 ---
 
-★★★★★★★★★★ Where this script really shines is the customizability aspect of it.★★★★★★★★★★
+★★★★★★★★★★★★★★★ Where this script really shines is the customizability aspect of it.★★★★★★★★★★★★★★★
 
 ---
 
