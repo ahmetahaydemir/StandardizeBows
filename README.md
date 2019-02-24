@@ -1,23 +1,17 @@
 # StandardizeBows
 Standardize Bows is a Unity ( C# ) project that is created in order to setup bow models that will simulate the physics of a bow without having any animation or animator component being attached to the bow. It is something that I currently use in my hobby project. I hope by sharing it more people can benefit from it.
 
-Advantage of using C# for this case is the customizability aspect. 
-
 Also it might help to people who don't have any experience in animation :)
 
-## Pros
+⇛ If you are not experienced in a modelling software and you don't have the time and energy to learn them like I don't, **this asset is for you ! **
 
-⇛ If you are not experienced in a modelling software and you don't have the time and energy to learn them like I don't, this asset is for you ! 
+⇛ If you are creating a game that has lots and lots of bow models, **this asset is for you !** 
 
-⇛ If you are creating a game that has lots and lots of bow models, this asset is for you ! 
+⇛ If you want your player stats to affect and interact with the movement of the bows like in a RPG game, **this asset is for you !** 
 
-⇛ If you want your player stats to affect and interact with the movement of the bows like in a RPG game, this asset is for you ! 
+⇝ **However,** because of the way this C# script achieves this process(not the most performant way), this script is not viable for a game that has more than 100 of these bows concurrently active in a scene ( Like a RTS game would have ). 
 
-## Cons
-
-⇝ However, because of the way this C# script achieves this process, this script is not viable for a game that has more than 100 of these bows concurrently active in a scene ( Like a RTS game would have ). 
-
-★★★★★ Where this script really shines is the customizability aspect of it.★★★★★
+★★★★★★★★★★ Where this script really shines is the customizability aspect of it.★★★★★★★★★★
 
 # ❂ FEATURES ❂ 
 
@@ -33,8 +27,6 @@ Also it might help to people who don't have any experience in animation :)
 
 ► Clear documentation and the scripts are heavily commented and organized. 
 
----
-
 # Showcase Videos
 
 * [Standalone Bow Version](https://youtu.be/UN7AWzPihGg)
@@ -43,8 +35,6 @@ Also it might help to people who don't have any experience in animation :)
 
 * [Player Integrated Version](https://youtu.be/zEGKLUMUr0k)
 
----
-
 # Tutorial Videos
 
 * [Tutorial Part - 1 - StandardizedRig Process](https://youtu.be/e0Ch9-XPdtU)
@@ -52,8 +42,6 @@ Also it might help to people who don't have any experience in animation :)
 * [Tutorial Part - 2A - Standalone Bow Version](https://youtu.be/s6zvTjLwbR4)
 
 * [Tutorial Part - 2B - Player Integrated Version](https://youtu.be/ic9Tlx7flIY)
-
----
 
 # Documentation & Asset Store & Youtube
 
