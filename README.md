@@ -1,9 +1,11 @@
 # StandardizeBows
 Standardize Bows is a Unity ( C# ) project that is created in order to setup bow models that will simulate the physics of a bow without having any animation or animator component being attached to the bow. 
 
-It is something that I currently use in my hobby project. I hope by sharing it more people can benefit from it.
+It is something that I currently use in my hobby project. I hope by sharing it, more people can benefit from it.
 
 Also it might help to people who don't have any experience in animation :)
+
+![Standardize Bows Banner](https://imgur.com/a/ZWFboem "Standardize Bows Banner")
 
 ## Who should use this ?
 
