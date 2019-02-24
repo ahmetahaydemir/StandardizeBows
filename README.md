@@ -71,8 +71,16 @@ Also it might help to people who don't have any experience in animation :)
 
 ---
 
-**Any amount of supoort is appreciated:** paypal.me/ahmetahaydemir
+## Roadmap
 
 Feel free to suggest anything that you want to see in future.
+
+* **First thing I will be looking into will be the Vertex Deformation with a shader.** It would be much more performant and suitable for high amounts of instances. I didn’t write it that way thinking that it would be hard for me and users who don’t know how to write shaders to get most out of it. Because as long as an asset cannot be integrated into your project, it is a waste of time.
+
+* **Second thing is the given bow models with the asset package.** I just put them as a placeholder models. They are my own models and that’s why they look terrible. I am planning to commission an artist friend of mine to create a set of bow and arrow models for this package depending on my financial state which is not very stable :)
+
+---
+
+**Any amount of supoort is appreciated:**  paypal.me/ahmetahaydemir
 
 Have a good day.
