@@ -38,13 +38,19 @@ Also it might help to people who don't have any experience in animation :)
 
 ![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/FirstStructure.png "Update Structure of Standalone")
 
+
+
 ![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/SecondStructure.png "Update Structure of Player Integrated Version")
+
 
 ► Projectile and particle object pooling. 
 
+
 ► Collision detection with different types of surfaces and on hit particles and sound effects. 
 
+
 ► Clear documentation and the scripts are heavily commented and organized. 
+
 
 
 ![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/CodeShowcase.png "This code is cleaner than my room.") 
