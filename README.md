@@ -36,17 +36,16 @@ Also it might help to people who don't have any experience in animation :)
 
 ► Modular state like coding in order to allow users to easily add/remove functionality. 
 
-![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/FirstStructure.png "Update Structure of Standalone")
+![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/FirstStructure.png "Update Structure of Standalone") --
+
+![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/SecondStructure.png "Update Structure of Player Integrated Version")--
+
+► Projectile and particle object pooling. --
 
 
 
-![Standardize Bows](https://github.com/ahmetahaydemir/StandardizeBows/raw/master/img/SecondStructure.png "Update Structure of Player Integrated Version")
+► Collision detection with different types of surfaces and on hit particles and sound effects. --
 
-
-► Projectile and particle object pooling. 
-
-
-► Collision detection with different types of surfaces and on hit particles and sound effects. 
 
 
 ► Clear documentation and the scripts are heavily commented and organized. 
