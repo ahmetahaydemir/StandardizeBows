@@ -5,7 +5,7 @@ It is something that I currently use in my hobby project. I hope by sharing it, 
 
 Also it might help to people who don't have any experience in animation :)
 
-![Standardize Bows Banner](https://imgur.com/a/ZWFboem "Standardize Bows Banner")
+![Standardize Bows Banner](https://github.com/ahmetahaydemir/StandardizeBows/assetSocial1200.png "Standardize Bows Banner")
 
 ## Who should use this ?
 
