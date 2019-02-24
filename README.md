@@ -71,4 +71,8 @@ Also it might help to people who don't have any experience in animation :)
 
 ---
 
-**Any amount of supoort is appreciated: paypal.me/ahmetahaydemir**
+**Any amount of supoort is appreciated:** paypal.me/ahmetahaydemir
+
+Feel free to suggest anything that you want to see in future.
+
+Have a good day.
