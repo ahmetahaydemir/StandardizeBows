@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 330854aa9db043b4db16638ac6e96ca3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigid: {instanceID: 0}
+  - bowScript: {instanceID: 0}
+  - quiver: {instanceID: 0}
+  - projectileHitParticleFlesh: {fileID: 1088171423, guid: fc6f7e0bb7905fd468af0326c2a0d6c4,
+      type: 3}
+  - projectileHitParticleWood: {fileID: 1088171423, guid: 1b6c81ebd5ea23c448e537bba8b4da50,
+      type: 3}
+  - projectileHitParticleStone: {fileID: 1088171423, guid: 83387b787ffe0bc45800192bd8ce359b,
+      type: 3}
+  - projectileHitParticleMetal: {fileID: 8956267301420205715, guid: 98919ba1e473e784e91a93e807412311,
+      type: 3}
+  - hitSoundFlesh: {fileID: 8300000, guid: d3d82c2805336d444aa0e8ac92c6fa2b, type: 3}
+  - hitSoundWood: {fileID: 8300000, guid: 2d6b2a7ff4097bd4fb93856ad88829f3, type: 3}
+  - hitSoundStone: {fileID: 8300000, guid: d8d51e58d6801f342b820c62df7991e8, type: 3}
+  - hitSoundMetal: {fileID: 8300000, guid: 54eb1141438321845a258a170bcd0a4c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

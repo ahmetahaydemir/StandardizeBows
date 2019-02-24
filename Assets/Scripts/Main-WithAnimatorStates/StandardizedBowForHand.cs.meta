@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2122f2135d66701419a86b4bf68f2e4a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bowUserAnim: {instanceID: 0}
+  - bowUserPullHand: {instanceID: 0}
+  - bowUpJoint1: {instanceID: 0}
+  - bowUpJoint2: {instanceID: 0}
+  - bowUpJoint3: {instanceID: 0}
+  - bowDownJoint1: {instanceID: 0}
+  - bowDownJoint2: {instanceID: 0}
+  - bowDownJoint3: {instanceID: 0}
+  - bowStringPoint: {instanceID: 0}
+  - projectile: {fileID: 6015331266736071183, guid: b84fa8c2bddec7e40ba1dd1e2934c33b,
+      type: 3}
+  - pullSound: {fileID: 8300000, guid: edac2aa222ac7d440b93bdf0b2c947c5, type: 3}
+  - retractSound: {fileID: 8300000, guid: 815cae7da9c76bc40862b7aa98a2a15d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
