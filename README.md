@@ -101,6 +101,4 @@ Feel free to suggest anything that you want to see in the future.
 
 ---
 
-**Any amount of supoort is appreciated:**           paypal.me/ahmetahaydemir
-
 Have a good day.
