@@ -21,7 +21,7 @@ Also it might help to people who don't have any experience in animation :)
 
 ---
 
-★★★★★★★★★★★★★★★★ Where this script really shines is the customizability aspect of it.★★★★★★★★★★★★★★★★
+★★★★ Where this script really shines is the customizability aspect of it ★★★★
 
 ---
 
